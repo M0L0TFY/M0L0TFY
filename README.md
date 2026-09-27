@@ -29,5 +29,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M0L0TFY/M0L0TFY/output/pacman-contribution-graph.svg">
   <img src="https://raw.githubusercontent.com/M0L0TFY/M0L0TFY/output/pacman-contribution-graph.svg">
 </picture> -->
-
-### -->
